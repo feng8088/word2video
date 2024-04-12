@@ -24,6 +24,7 @@
 
 **软件使用**
 
+![image](https://raw.githubusercontent.com/feng8088/word2video/main/11111.png)
 
 软件绿色安装，下载压缩包后解压，运行 word2video.exe 打开软件
 
@@ -45,6 +46,8 @@ word2video word文档转视频 软件运行界面
 
 软件生成视频期间会闪动并快速秒自动弹出关闭新窗口，这是因为软件依赖会调用出CMD控制台，属于正常情况。作者也在努力隐藏这个控制台，还在努力中。
 
+![image](https://github.com/feng8088/word2video/blob/main/22222.png)
+
 （4）软件的文字转语音使用了python的edge-tts模块，因edge-tts需要联网，所以软件需要联网才能使用。
 
 word2video word文档转视频 软件输出MP4界面
@@ -56,3 +59,6 @@ word2video word文档转视频 软件输出MP4界面
 可在导出目录看已经生成的文件，最终在导出列表中有许多文件，用户可以保留或删除。
 
 word2video word文档转视频 输出文件列表
+
+![image](https://github.com/feng8088/word2video/blob/main/33333.png)
+
