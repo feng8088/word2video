@@ -9,7 +9,9 @@
 
 当前最新版本：v1 ，时间:2024/4
 
-网盘https://www.123pan.com/s/Llttjv-ssw4.html 提取码:CRPY
+网盘
+https://www.123pan.com/s/Llttjv-cOw4.html
+提取码:yJ3F
 
 
 
@@ -23,7 +25,7 @@
 
 **软件使用**
 
-![image](https://raw.githubusercontent.com/feng8088/word2video/main/11111.png)
+![image](https://raw.githubusercontent.com/feng8088/word2video/main/v1.10.png)
 
 软件绿色安装，下载压缩包后解压，运行 word2video.exe 打开软件
 
