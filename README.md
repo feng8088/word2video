@@ -7,12 +7,8 @@
 
 **软件下载**
 
-当前最新版本：v1.10 ，时间:2024/4/16
-
-网盘
-https://www.123pan.com/s/Llttjv-cOw4.html
-提取码:yJ3F
-
+软件Pro版与免费版使用功能无区别，详见
+https://word2video.xiaomipo.com/
 
 
 **视频演示**
