@@ -1,6 +1,10 @@
 小米坡word文档转视频生成工具，是一款基于windows平台下使用的word文档转视频工具。可以把word文档的图片转成视频、提取文档里边的文字转成配音、并生成字幕同步在视频上展示，支持加背景音乐。最终形成一个有配音、画面、字幕、背景音乐的完整视频。
 
-软件免费使用，软件暂时不能完全离线，因为使用了python的edge-tts模块，因edge-tts需要联网，所以软件需要联网才能使用。
+软件免费使用，软件暂时不能完全离线，因为集成了python的edge-tts模块，因edge-tts需要联网，所以软件需要联网才能使用。
+
+但软件支持集成任何自建tts服务或其它tts，如果用户自建了tts，则完全离线没问题了。
+
+v1.13b起，增加一个新版本检查，如软件发现有新版本，会在界面上提示用户。
 
 除此之外，无其它网络请求。
 
@@ -10,16 +14,20 @@
 软件Pro版与免费版使用功能无区别，详见
 https://word2video.xiaomipo.com/
 
+**使用教程视频**
+https://www.bilibili.com/video/BV1TouDeTEPL/
 
 **视频演示**
 
 基本视频演示，主要演示软件功能和技术效果，可能视频不好看不好听（这和配图、选歌、故事情节字幕有关系）。
 
-视频演示链接 https://www.bilibili.com/video/BV1CA4m1F727/      查看生成演示视频所用word文档
+视频演示链接 https://www.bilibili.com/video/BV1UjuDerEok/ 查看生成演示视频所用word文档
 
 如果你有优秀的作品当案例，可以联系发链接给作者。
 
 **软件使用**
+
+v1.13已经进行了大量的新功能与布局，以下使用教程仅部分参考，更多请见上文视频教程。
 
 ![image](https://raw.githubusercontent.com/feng8088/word2video/main/v1.10.png)
 
