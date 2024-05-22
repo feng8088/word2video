@@ -29,7 +29,7 @@ https://www.bilibili.com/video/BV1TouDeTEPL/
 
 v1.13已经进行了大量的新功能与布局，以下使用教程仅部分参考，更多请见上文视频教程。
 
-![image](https://raw.githubusercontent.com/feng8088/word2video/main/v1.10.png)
+![image](https://github.com/feng8088/word2video/blob/main/v1.13b-1.jpg)
 
 软件绿色安装，下载压缩包后解压，运行 word2video.exe 打开软件
 
