@@ -11,7 +11,7 @@ v1.13b起，增加一个新版本检查，如软件发现有新版本，会在�
 
 **软件下载**
 
-软件Pro版与免费版使用功能无区别，详见
+软件Pro版与免费版使用功能无区别，详见软件官网
 https://word2video.xiaomipo.com/
 
 **使用教程视频**
@@ -27,9 +27,9 @@ https://www.bilibili.com/video/BV1TouDeTEPL/
 
 **软件使用**
 
-v1.13已经进行了大量的新功能与布局，以下使用教程仅部分参考，更多请见上文视频教程。
+v1.14a在v1.13b的基础上进行了更多功能的迭代，已经进行了大量的新功能与布局，以下使用教程仅部分参考，更多请见上文视频教程。
 
-![image](https://github.com/feng8088/word2video/blob/main/v1.13b-1.jpg)
+![image](https://github.com/feng8088/word2video/blob/main/1.14a.jpg)
 
 软件绿色安装，下载压缩包后解压，运行 word2video.exe 打开软件
 
