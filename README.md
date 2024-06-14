@@ -28,9 +28,9 @@ https://www.bilibili.com/video/BV1TouDeTEPL/
 
 **软件使用**
 
-v1.14a在v1.13b的基础上进行了更多功能的迭代，已经进行了大量的新功能与布局，以下使用教程仅部分参考，更多请见上文视频教程。
+v1.15b完成更多功能的迭代，已经进行了大量的新功能与布局，以下使用教程仅供欣赏，更多请见上文视频教程或官网。
 
-![image](https://github.com/feng8088/word2video/blob/main/1.14a.jpg)
+![image](https://github.com/feng8088/word2video/blob/main/1.15b-demo.gif)
 
 软件绿色安装，下载压缩包后解压，运行 word2video.exe 打开软件
 
