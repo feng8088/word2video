@@ -30,7 +30,7 @@ https://www.bilibili.com/video/BV1TouDeTEPL/
 
 **软件使用**
 
-v1.15b完成更多功能的迭代，已经进行了大量的新功能与布局，以下使用教程仅供欣赏，更多请见上文视频教程或官网。
+v1.16a完成更多功能的迭代，已经进行了大量的新功能与布局，重构了大量代码，以下使用教程仅供欣赏，更多请见上文视频教程或官网。
 
 ![image](https://github.com/feng8088/word2video/blob/main/1.16a.gif)
 
