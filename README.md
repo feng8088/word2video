@@ -32,7 +32,7 @@ https://www.bilibili.com/video/BV1TouDeTEPL/
 
 v1.15b完成更多功能的迭代，已经进行了大量的新功能与布局，以下使用教程仅供欣赏，更多请见上文视频教程或官网。
 
-![image](https://github.com/feng8088/word2video/blob/main/1.15b-demo.gif)
+![image](https://github.com/feng8088/word2video/blob/main/1.16a.gif)
 
 虽然看起来操作选项很多，但都是可选操作。 生成视频的操作默认只需要4步即可。
 
