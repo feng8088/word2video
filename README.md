@@ -8,7 +8,7 @@
 软件永久免费，下载后解压缩，运行文件夹里的word2video.exe打开软件即可使用。
 
 **主要功能：**  
-截至目前1.22d版  
+截至目前1.23c版  
 1、word图文转视频，生成有配音、字幕、背景音乐、转场特效与滤镜  
 2、文本转语音，多角色对话式文本转语音  
 3、图片相册转MV，支持嵌入MP3和歌词文件  
@@ -25,6 +25,9 @@
 14、GIF动态图片播放倍速加快工具  
 15、GIF动态图片做分割切片工具  
 16、从视频提取音频工具（可按时间段提取）  
+17、批量word文档生成视频插件
+18、视频片段合并插件
+19、图片转视频使用多线程批量加速，相比以前一张张按顺序转视频画面并应用放大效果，这次能节省1/4以上的时间
 
 **特点：**  
 1、tts配音为模块化，代码公开，用户可脱离软件单独二开tts或魔改，默认集成azure tts，用户可填写自己的azure密钥。  
@@ -54,7 +57,6 @@ https://word2video.xiaomipo.com/
 提取WORD中的GIF图片一起生成视频的作品演示  
 https://www.bilibili.com/video/BV17kW3e7Ek7/  
 
-
 **使用教程视频**  
 https://www.bilibili.com/video/BV1TouDeTEPL/  
 
@@ -65,6 +67,9 @@ https://www.bilibili.com/video/BV1TouDeTEPL/
 视频演示链接 https://www.bilibili.com/video/BV1UjuDerEok/ 查看生成演示视频所用word文档  
 
 如果你有优秀的作品当案例，可以联系发链接给作者。  
+
+**新功能 批量生成视频**
+![image](https://github.com/feng8088/word2video/blob/main/%E6%89%B9%E9%87%8F-%E9%9D%99%E6%80%81.jpg)  
 
 **软件使用**  
 
