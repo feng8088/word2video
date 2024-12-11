@@ -61,7 +61,7 @@
 
 软件无注册无登录，绿色解压直接免费使用。  
 如遇到使用问题或需要更多了解，可查看软件官网  
-https://word2video.xiaomipo.com/  
+https://word2video.xiaomipo.com/?f=2024  
 提取WORD中的GIF图片一起生成视频的作品演示  
 https://www.bilibili.com/video/BV17kW3e7Ek7/  
 
