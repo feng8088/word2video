@@ -76,9 +76,6 @@ https://www.bilibili.com/video/BV1TouDeTEPL/
 
 如果你有优秀的作品当案例，可以联系发链接给作者。  
 
-**新功能 批量生成视频**
-![image](https://github.com/feng8088/word2video/blob/main/%E6%89%B9%E9%87%8F-%E9%9D%99%E6%80%81.jpg)  
-
 **软件使用**  
 
 ![image](https://github.com/feng8088/word2video/blob/main/1.22-2.gif)  
